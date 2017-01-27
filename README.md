@@ -1,6 +1,8 @@
 Simple server that includes CORS headers to the HTML resource served at `/hello`.  Url is `http://localhost:3000/hello` by default
 ```
 # Install dependencies
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/cpilsworth/hapi-cors.svg)](https://greenkeeper.io/)
 npm install
 
 # start the server
